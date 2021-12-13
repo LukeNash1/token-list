@@ -43373,6 +43373,19 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2aFsiuarZZPLPCYSwETvhZhwb6us7QxmB99RWc2qTCY6",
+      "symbol": "LRN",
+      "name": "Lauren Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/LukeNash1/LaurenCoin/main/LaurenCoin.png?token=AW4UMPLBGQN43HNUHZFZ6TLBW5NK6",
+      "tags": [
+        "laurencoin",
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
